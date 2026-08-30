@@ -1,3 +1,4 @@
+{
 const SILICONFLOW_BASE = 'https://api.siliconflow.cn/v1/chat/completions';
 
 // 允许的模型白名单，防止前端被滥用去调其他模型
